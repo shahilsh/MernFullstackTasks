@@ -1,0 +1,33 @@
+.parent_div1{
+    width:919px;
+    display:flex;
+    border: 1px solid grey
+}
+.div1{
+    background-color: #04A96D;
+    color: white;
+    width: 300px;
+    height: 32px;
+    font-size: 16px;
+    padding-top: 10px;
+    padding-left: 7px;
+
+}
+.div2{
+    background-color: #E8E9EB;
+    color: black;
+    width: 300px;
+    height: 30px;
+    font-size: 16px;
+    padding-top: 14px;
+    padding-left: 7px;
+}
+.div3{
+    background-color: white;
+    color: black;
+    width: 300px;
+    height: 30px;
+    font-size: 16px;
+    padding-top: 14px;
+    padding-left: 7px;
+}
